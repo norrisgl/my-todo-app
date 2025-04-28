@@ -1,0 +1,7 @@
+Buy groceries.
+Return the books to the library.
+Watch Football game.
+Go To Sleep.
+Go And Eat.
+Clean The Bag.
+Do The Laundry.
